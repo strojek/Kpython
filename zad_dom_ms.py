@@ -26,6 +26,8 @@ koszt_calkowity = koszt_b + koszt_z
 #print(f' {ile_bananow} kg ziemniakow po {cena_bananow} zl bedzie kosztowac {koszt_b} zl')
 
 
+
+
 print(f'za te zakupy bedziesz musial zaplacic {koszt_calkowity} zlotych.')
 
 if koszt_z > koszt_b:
